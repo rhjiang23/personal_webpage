@@ -122,6 +122,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fMHi0mMAAAAJ&hl=en"
+    - label: "CV"
+      icon: "fab fa-fw fa-pdf"
+      url: "assets/Curriculum_Vitae_of_Ruihong_Jiang.pdf"
 
 # Site Footer
 footer:
