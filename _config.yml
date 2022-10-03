@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Ruihong Jiang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Waterloo, Canada"
+  bio              : "Ph.D. Student at University of Waterloo"
+  location         : "Waterloo, Ontario, Canada"
   email            :
   links:
     - label: "Email"
@@ -116,15 +116,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rhjiang23.github.io/personal_website/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rhjiang"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=fMHi0mMAAAAJ&hl=en"
