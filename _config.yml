@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Ruihong Jiang's Personal Website"
 title_separator          : "-"
-subtitle                 : "October 03, 2022" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ruihong Jiang"
 description              : "This is Ruihong Jiang's personal website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rhjiang.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,7 +115,7 @@ author:
       url: "mailto:rhjiang@uwaterloo.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://rhjiang23.github.io/personal_website/"
+      url: "https://rhjiang.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rhjiang"
