@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=fMHi0mMAAAAJ&hl=en"
     - label: "CV"
-      icon: "fab fa-fw fa-bookmark"
+      icon: "fab fa-fw fa-file-o"
       url: "assets/Curriculum_Vitae_of_Ruihong_Jiang.pdf"
 
 # Site Footer
