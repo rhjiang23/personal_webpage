@@ -120,10 +120,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rhjiang"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=fMHi0mMAAAAJ&hl=en"
     - label: "CV"
-      icon: "fab fa-fw fa-adobe"
+      icon: "fab fa-fw fa-bookmark"
       url: "assets/Curriculum_Vitae_of_Ruihong_Jiang.pdf"
 
 # Site Footer
