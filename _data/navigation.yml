@@ -2,15 +2,13 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Home"
     url: https://rhjiang23.github.io/personal_website
   - title: "Research"
     url: https://rhjiang23.github.io/personal_website
   - title: "Teaching"
     url: https://rhjiang23.github.io/personal_website
   - title: "MISCELLANEOUS"
-    url: https://rhjiang23.github.io/personal_website
-  - title: "CV"
     url: https://rhjiang23.github.io/personal_website
   # - title: "Sample Posts"
   #   url: /year-archive/
