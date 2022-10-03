@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruihong Jiang's Personal Website"
+title                    : "Ruihong Jiang's Personal Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ruihong Jiang"
-description              : "This is Ruihong Jiang's personal website."
+description              : "This is Ruihong Jiang's personal webpage."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ author:
       url: "mailto:rhjiang@uwaterloo.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://rhjiang23.github.io/personal_website"
+      url: "https://rhjiang23.github.io/personal_webpage"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rhjiang"
